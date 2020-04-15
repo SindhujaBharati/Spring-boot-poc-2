@@ -1,0 +1,4 @@
+Spring Boot Framework is not implemented from the scratch by The Spring Team, rather than implemented on top of existing Spring Framework (Spring IO Platform).
+It is not used for solving any new problems. It is used to solve same problems like Spring Framework.
+It is some what bit time consuming process to convert existing or legacy Spring Framework projects into Spring Boot Applications but we can convert all kinds of projects into Spring Boot Applications.
+It is very easy to create brand new/Greenfield Projects using Spring Boot.
